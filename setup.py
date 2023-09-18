@@ -42,7 +42,7 @@ setup(
         'zstandard',
         'uvloop',
         'aiofiles',
-        'pyarrow==0.14.1',
+        'pyarrow',
         'pyorc',
         'pandas',
         'python-snappy'
